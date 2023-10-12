@@ -73,6 +73,10 @@ const Navbar = () => {
             setOpen(!open)
           }}>Education</MobileMenuLink>
 
+          <MobileMenuLink href='#contact' onClick={() => {
+            setOpen(!open)
+          }}>Contact</MobileMenuLink>
+
           <GithubButton style={{ padding: '10px 16px', background: `${theme.primary}`, color: 'white', width: 'max-content' }} href={Bio.github} target="_blank">
             Github Profile</GithubButton>
 
