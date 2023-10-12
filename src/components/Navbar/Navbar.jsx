@@ -7,7 +7,6 @@ import { useTheme } from '@emotion/react'
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
-  console.log(open)
   const theme = useTheme();
 
   return (
@@ -47,11 +46,11 @@ const Navbar = () => {
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_blank" >Github Profile</GithubButton>
         </ButtonContainer>
-      </NavContainer>
+      
 
       {/* Condition of mobile menu when it is open or not */}
       {
-        open && (
+        open && 
         <MobileMenu open={open}>
 
           <MobileMenuLink href="#about" onClick={() => {
@@ -78,7 +77,8 @@ const Navbar = () => {
             Github Profile</GithubButton>
 
         </MobileMenu>
-        )}
+        }
+        </NavContainer>
     </Nav>
   )
 }

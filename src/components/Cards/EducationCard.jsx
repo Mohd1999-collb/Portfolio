@@ -1,5 +1,5 @@
 import React from 'react'
-import { Document, Description, Span, Card, Top, Image, Body, Name, Degree, Date, Grade } from "./EducationCardStyle"
+import { Description, Span, Card, Top, Image, Body, Name, Degree, Date, Grade } from "./EducationCardStyle"
 
 const EducationCard = ({ education }) => {
     return (
