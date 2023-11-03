@@ -26,16 +26,16 @@ const Projects = ({ openModal, setOpenModal }) => {
                     <Divider />
 
                     {toggle === 'web app' ?
-                        <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+                        <ToggleButton active value="web app" onClick={() => setToggle('web app')}>Frontend</ToggleButton>
                         :
-                        <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+                        <ToggleButton value="web app" onClick={() => setToggle('web app')}>Frontend</ToggleButton>
                     }
                     <Divider />
 
                     {toggle === 'backend' ?
-                        <ToggleButton active value="backend" onClick={() => setToggle('backend')}>OTHER'S</ToggleButton>
+                        <ToggleButton active value="backend" onClick={() => setToggle('backend')}>Backend</ToggleButton>
                         :
-                        <ToggleButton value="backend" onClick={() => setToggle('backend')}>OTHER'S</ToggleButton>
+                        <ToggleButton value="backend" onClick={() => setToggle('backend')}>Backend</ToggleButton>
                     }
                     {/* <Divider /> */}
 

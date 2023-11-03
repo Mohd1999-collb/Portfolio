@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Mohd Talib",
   roles: [
-    "Developer",
+    "Software Developer",
     // "Android Developer",
     // "UI/UX Designer",
     "Programmer",
@@ -225,7 +225,7 @@ export const experiences = [
     role: "React Intern",
     company: "Institute of Engineering & Technology ",
     date: "January 2023 - May 2023",
-    desc: "Working on the frontend of the web application using ReactJS, Bootstarp, and Material UI.",
+    desc: "Working on the frontend of the web application using ReactJS, Bootstarp, and Material UI, connected it to Firebase for user sign-in and data storage.",
     skills: [
       "HTML",
       "CSS",
@@ -288,43 +288,42 @@ export const projects = [
     image:
       "https://github.com/Mohd1999-collb/Youtube-Lite/assets/96992202/74c0fa13-4a7a-47dd-a979-d7319ebfdc3f",
     tags: [
-      "Html",
-      "Tailwind Css",
-      "Javascript",
       "React Js",
+      "Tailwind Css",
+      "Rapid Api",
     ],
     category: "web app",
     github: "https://github.com/Mohd1999-collb/Youtube-Lite",
     webapp: "https://mohdtalib-youtube-lite.netlify.app/",
   },
 
-  // {
-  //   id: 1,
-  //   title: "Podstream",
-  //   date: "Apr 2023 - May 2023",
-  //   description:
-  //     "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-  //   tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Podstream",
-  //   webapp: "https://podstream.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
+  {
+    id: 13,
+    title: "Gericht Resturant UI",
+    date: "Oct 2023",
+    description:
+      "A Gericht Restaurant Website is a simple clean UI created using React Js that showcases a restaurant's offerings, menu, and information in an interactive and visually appealing manner  that presents a restaurant's menu, location, opening hours, and other relevant details and user-friendly format.This project aims to provide an online presence for the restaurant, attracting customers and enhancing their dining experience by offering information and convenience through the website.",
+    image:
+      "https://user-images.githubusercontent.com/96992202/280195021-f94a3a9b-1799-4396-9157-f573cc39477b.png",
+    tags: ["React Js", "Css"],
+    category: "web app",
+    github: "https://github.com/Mohd1999-collb/Resturant-Website-Using-react",
+    webapp: "https://mohdtalib-resturant-website.netlify.app/",
+    // member: [
+    //   {
+    //     name: "Rishav Chanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Upasana Chaudhuri",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
 
   {
     id: 2,
