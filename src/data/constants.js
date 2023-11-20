@@ -9,10 +9,10 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Mohd1999-collb",
-  resume: "https://drive.google.com/file/d/19Mr502TztUwH7EJLlFD34O_-OoySwnDZ/view",
+  resume: "https://drive.google.com/file/d/1I06VmeeRt20UI390-Oo2L3bAfY7xobAo/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohd-talib7232/",
   twitter: "https://twitter.com/MohdTal42496211",
-  insta: "https://instagram.com/talib2462?igshid=OGQ5ZDc2ODk2ZA==",
+  insta: "https://www.instagram.com/programmerlife7232?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
   facebook: "https://www.facebook.com/talib.siddiqui.56679?mibextid=2JQ9oc",
 };
 
