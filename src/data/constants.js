@@ -7,7 +7,7 @@ export const Bio = {
   description:
   "As a Software Engineer at OEX Tech Solutions Pvt. Ltd., always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Mohd1999-collb",
-  resume: "https://drive.google.com/file/d/1I06VmeeRt20UI390-Oo2L3bAfY7xobAo/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1C9oG2l-hexBkqES9X9gI5PYtE_6TWIJW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohd-talib7232/",
   twitter: "https://twitter.com/MohdTal42496211",
   insta: "https://www.instagram.com/programmerlife7232?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
@@ -304,7 +304,7 @@ export const projects = [
     description:
       "Borcelle Mart is a comprehensive e-commerce platform designed to provide a seamless shopping experience for users. The platform includes both a user-friendly interface for customers and a robust admin panel for store management. The project showcases advanced features such as user authentication, secure payment processing, and responsive design, ensuring accessibility across various devices.",
     image:
-      "https://private-user-images.githubusercontent.com/96992202/349021804-ea2f0115-0ed8-4e69-854a-a8955f6b169b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMjE4NjEsIm5iZiI6MTcyMTEyMTU2MSwicGF0aCI6Ii85Njk5MjIwMi8zNDkwMjE4MDQtZWEyZjAxMTUtMGVkOC00ZTY5LTg1NGEtYTg5NTVmNmIxNjliLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDA5MTkyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiNDUxNTRhYmE4NWMzNWQ0N2IwYjgyMzRlMmNhM2Y1NmIwNzhhYzFiNDdiNDkwM2IwNmVlZDQxYzI3ZTAyMTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RS5oCv8k612wSi2Gne_CQG8Bhn0CK_z0Hw2J6Q2YTdI",
+      "https://res.cloudinary.com/dyqtzsm0b/image/upload/v1721123843/uploadImages/kn4phbrlvbdxpmerumwj.png",
     tags: [
       "Next Js",
       "TypeScript",
