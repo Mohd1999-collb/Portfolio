@@ -18,7 +18,7 @@ const Contact = () => {
                 form.current.reset();
                 // console.log(result.text);
             }, (error) => {
-                // console.log(error.text);
+                console.log(error.text);
             });
     }
 

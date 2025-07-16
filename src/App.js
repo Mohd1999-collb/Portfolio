@@ -26,9 +26,6 @@ const Wrapper = styled.div`
   width: 100%;
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
-
-
-
 /****App Component */
 const App = () => {
   const [openModal, setOpenModal] = useState({ state: false, project: null });
@@ -48,7 +45,7 @@ const App = () => {
             <Education />
             <Contact/>
           </Wrapper>
-          <Footer/>
+          <Footer/>          
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
