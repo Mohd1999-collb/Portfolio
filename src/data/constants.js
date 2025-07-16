@@ -43,7 +43,7 @@ export const skills = [
       {
         name: "Next Js",
         image:
-          "https://cdn.creazilla.com/icons/3254134/nextjs-icon-icon-sm.png",
+          "https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default",
       },
 
       {
