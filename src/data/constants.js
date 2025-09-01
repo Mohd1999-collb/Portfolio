@@ -31,7 +31,7 @@ export const skills = [
       }
     ],
   },
-
+  
   {
     title: "Libraries/Frameworks",
     skills: [
